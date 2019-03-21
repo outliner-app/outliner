@@ -1,3 +1,3 @@
 # Outliner
 
-[outliner-app.github.io]([https://outliner-app.github.io])
+[outliner-app.github.io](https://outliner-app.github.io)
